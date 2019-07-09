@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_recent"
+        android:icon="@drawable/ic_nav_recent"
+        android:title="@string/place_order" />
+
+    <item
+        android:id="@+id/nav_category"
+        android:icon="@drawable/ic_nav_category"
+        android:title="@string/track_order" />
+
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_nav_info"
+        android:title="@string/order_history" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_user"
+        android:title="@string/receipt_order" />
+
+    <item
+        android:id="@+id/aaa"
+        android:icon="@drawable/ic_user"
+        android:title="@string/collection_details" />
+
+</menu>

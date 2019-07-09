@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--slide down animation1--><!--<set xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:fillAfter="true">-->
+
+<!--<scale--><!--android:duration="2000"--><!--android:fromXScale="1.0"--><!--android:fromYScale="0.0"--><!--android:interpolator="@android:anim/linear_interpolator"--><!--android:toXScale="1.0"--><!--android:toYScale="1.0" />-->
+
+
+<!--</set>-->
+
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <translate
+        android:duration="2000"
+        android:fromYDelta="-85%"
+        android:toYDelta="0"
+
+        />
+
+</set>
+
+
+    <!--<translate xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:duration="1000"--><!--android:fromXDelta="-100%p"--><!--android:toXDelta="0" />-->
+
+    <!--slide_down.xml--><!--<set xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:fillAfter="true">-->
+
+    <!--<scale--><!--android:duration="2000"--><!--android:fromXScale="1.0"--><!--android:fromYScale="0.0"--><!--android:interpolator="@android:anim/linear_interpolator"--><!--android:toXScale="1.0"--><!--android:toYScale="1.0" />-->
+
+    <!--</set>-->
